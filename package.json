@@ -1,0 +1,17 @@
+{
+  "name": "wesh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "benchmark": "node benchmark.js"
+  },
+  "dependencies": {
+    "class-variance-authority": "0.6.0",
+    "tailwind-variants": "0.1.8"
+  },
+  "devDependencies": {
+    "benchmark": "2.1.4"
+  }
+}
